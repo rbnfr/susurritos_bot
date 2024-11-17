@@ -1,0 +1,12 @@
+pydantic==2.9.2
+pydantic-settings==2.6.1
+pydantic_core==2.23.4
+pydub==0.25.1
+Telethon==1.37.0
+torch==2.5.1+cu118
+torch-audiomentations==0.11.1
+torch_pitch_shift==1.2.5
+torchaudio==2.5.1
+torchmetrics==1.6.0
+torchvision==0.20.1+cu118
+whisperx==3.1.6
